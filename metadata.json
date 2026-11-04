@@ -1,0 +1,6 @@
+{
+  "name": "FlowPilot",
+  "description": "Intelligent Business Workflow Automation Platform with multi-level approval systems, visual workflow builder, CRM enquiry management, interactive REST API explorer, and Zoho Creator / Deluge learning mappings.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
